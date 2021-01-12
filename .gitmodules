@@ -1,0 +1,4 @@
+[submodule "DemoCommon"]
+	path = DemoCommon
+	url = https://github.com/zouzhonghui2001081/DemoCommon.git
+	branch = main

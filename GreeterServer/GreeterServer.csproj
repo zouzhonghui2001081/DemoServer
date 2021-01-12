@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GrpcDefinitions\Greeter\Greeter.csproj" />
+    <ProjectReference Include="..\DemoCommon\Greeter\Greeter.csproj" />
   </ItemGroup>
 
 </Project>
